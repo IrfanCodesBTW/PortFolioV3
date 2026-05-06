@@ -62,8 +62,8 @@ Webcam-based dashboard for visualizing productivity trends and emotional distrib
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IrfanCodesBTW&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050508&title_color=7a59ff&text_color=8b88a8&icon_color=00d4aa" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrfanCodesBTW&layout=compact&theme=tokyonight&hide_border=true&bg_color=050508&title_color=7a59ff&text_color=8b88a8" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=IrfanCodesBTW&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050508&title_color=7a59ff&text_color=8b88a8&icon_color=00d4aa" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=IrfanCodesBTW&layout=compact&theme=tokyonight&hide_border=true&bg_color=050508&title_color=7a59ff&text_color=8b88a8" alt="Top Languages" />
 </div>
 
 ---
