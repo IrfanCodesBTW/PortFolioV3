@@ -1,12 +1,11 @@
 <div align="center">
   <img src="banner.png" alt="Shaik Irfan Basha Portfolio Banner" width="100%">
 
-  # ⚡ SHAIK IRFAN BASHA ⚡
-  ### AI Developer • Full-Stack Builder • Hackathon Competitor
+  <br>
 
   [![GitHub followers](https://img.shields.io/github/followers/IrfanCodesBTW?style=for-the-badge&logo=github&labelColor=13131d&color=7a59ff)](https://github.com/IrfanCodesBTW)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=13131d&color=0077B5)](https://www.linkedin.com/in/shaik-irfan-basha-b73abb325/)
-  [![Email](https://img.shields.io/badge/Email-91infocus@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=13131d&color=D14836)](mailto:91infocus@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-irfanbasha.contact@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=13131d&color=D14836)](mailto:irfanbasha.contact@gmail.com)
 
   ---
 
